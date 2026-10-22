@@ -1,0 +1,5 @@
+- Don't run tests to verify your work unless I ask.
+- When sharing a solution, share rough logic in chat first. NEVER implement directly until user approves.
+- Don't blindly run `npm`, check what project uses.
+- I use mise.
+- When committing changes, write one liner git commit message.

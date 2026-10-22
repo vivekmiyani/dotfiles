@@ -16,4 +16,7 @@ link() {
   ln -sfn "$source" "$target"
 }
 
+link "$DOTFILES/claude/CLAUDE.md" "$HOME/.claude/CLAUDE.md"
 link "$DOTFILES/claude/commands" "$HOME/.claude/commands"
+link "$DOTFILES/claude/output-styles" "$HOME/.claude/output-styles"
+link "$DOTFILES/claude/settings.json" "$HOME/.claude/settings.json"

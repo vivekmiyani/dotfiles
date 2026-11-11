@@ -3,3 +3,4 @@
 - Don't blindly run `npm`, check what project uses.
 - I use mise.
 - When committing changes, write one liner git commit message.
+- Breaking changes are fine if they make the code better. Tell me what breaks.
